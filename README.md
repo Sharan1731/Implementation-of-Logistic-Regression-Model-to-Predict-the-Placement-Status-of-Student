@@ -35,8 +35,8 @@ End the program.
 ```
 /*
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
-Developed by: 
-RegisterNumber:  
+Developed by:Sharan.G 
+RegisterNumber:212223230203
 */
 import pandas as pd
 data=pd.read_csv("/content/Placement_Data.csv")
